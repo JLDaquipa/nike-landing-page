@@ -5,12 +5,13 @@ import { Hero,
   SpecialOffer,
   CustomerReviews,
   Subscribe,
-  Footer } from "./sections"
+  Footer } from "./sections";
+import Nav from "./components/Nav";
 
 const App = () => {
   return (
     <main className=''>
-      Nav
+      <Nav />
       <section className='xl:padding-1 wide:padding-r padding-b'>
         <Hero />
       </section>
