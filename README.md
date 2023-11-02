@@ -1,5 +1,7 @@
 # Nike Landing Page 🏅
 
+https://nike-new-arrivals-page-23.netlify.app/
+
 <h3>Project Description</h3>
 Building Nike landing page to practice <b>ReactJS</b> with the use of <b>Tailwind CSS</b> for styling.
 
